@@ -101,7 +101,7 @@
 		<item href="text/and-the-dead-spake.xhtml" id="and-the-dead-spake.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/at-abdul-alis-grave.xhtml" id="at-abdul-alis-grave.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/at-the-farmhouse.xhtml" id="at-the-farmhouse.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/between-the-night.xhtml" id="between-the-night.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/between-the-lights.xhtml" id="between-the-lights.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/caterpillars.xhtml" id="caterpillars.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/gavons-eve.xhtml" id="gavons-eve.xhtml" media-type="application/xhtml+xml"/>
@@ -147,7 +147,7 @@
 		<itemref idref="the-cat.xhtml"/>
 		<itemref idref="the-bus-conductor.xhtml"/>
 		<itemref idref="the-man-who-went-too-far.xhtml"/>
-		<itemref idref="between-the-night.xhtml"/>
+		<itemref idref="between-the-lights.xhtml"/>
 		<itemref idref="outside-the-door.xhtml"/>
 		<itemref idref="the-terror-by-night.xhtml"/>
 		<itemref idref="the-other-bed.xhtml"/>
