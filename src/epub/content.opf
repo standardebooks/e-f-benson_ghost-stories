@@ -121,7 +121,7 @@
 		<item href="text/the-dust-cloud.xhtml" id="the-dust-cloud.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-gardener.xhtml" id="the-gardener.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-horror-horn.xhtml" id="the-horror-horn.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-house-with-the-brick-kiln.xhtml" id="the-house-with-the-brick-kiln.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-house-with-the-brickkiln.xhtml" id="the-house-with-the-brickkiln.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-who-went-too-far.xhtml" id="the-man-who-went-too-far.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-other-bed.xhtml" id="the-other-bed.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-outcast.xhtml" id="the-outcast.xhtml" media-type="application/xhtml+xml"/>
@@ -152,7 +152,7 @@
 		<itemref idref="the-terror-by-night.xhtml"/>
 		<itemref idref="the-other-bed.xhtml"/>
 		<itemref idref="the-thing-in-the-hall.xhtml"/>
-		<itemref idref="the-house-with-the-brick-kiln.xhtml"/>
+		<itemref idref="the-house-with-the-brickkiln.xhtml"/>
 		<itemref idref="and-the-dead-spake.xhtml"/>
 		<itemref idref="the-outcast.xhtml"/>
 		<itemref idref="the-horror-horn.xhtml"/>
