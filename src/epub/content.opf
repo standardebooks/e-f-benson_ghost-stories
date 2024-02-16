@@ -81,6 +81,9 @@
 		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="sponsor">Lance Linimon</dc:contributor>
+		<meta property="file-as" refines="#sponsor">Linimon, Lance</meta>
+		<meta property="role" refines="#sponsor" scheme="marc:relators">spn</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
