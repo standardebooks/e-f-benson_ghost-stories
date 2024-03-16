@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/e-f-benson/ghost-stories</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-03-16T03:06:15Z</dc:date>
+		<meta property="dcterms:modified">2024-03-16T03:06:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,15 +46,16 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of ghost stories by E. F. Benson.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/e-f-benson"&gt;E. F. Benson&lt;/a&gt; was a prolific writer of both novels and short stories, but he’s perhaps most famous for his ghost stories. These stories range widely in tone, from the quietly atmospheric country road in “The Dust-Cloud,” to the slick gruesome body horror in “Caterpillars,” to the chuckles elicited in the satirical “Mr. Tilly’s Séance,” to the Gothic terror in what might be Benson’s most famous ghost story, “The Room in the Tower.”&lt;/p&gt;
+			&lt;p&gt;These stories were all largely published as one-offs in various magazines before later being compiled into a series of collections by his publisher. Today they from a foundation of the genre, having influenced writers for decades.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72421</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/60339</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100406466</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008921437</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">156277</meta>
+		<meta property="se:reading-ease.flesch">67.69</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ghost_Stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-f-benson_ghost-stories</meta>
 		<dc:creator id="author">E. F. Benson</dc:creator>
