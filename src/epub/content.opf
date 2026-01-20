@@ -55,7 +55,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/60339</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100406466</dc:source>
 		<dc:source>https://www.google.com/books/edition/Visible_and_Invisible/rC6CuwEACAAJ</dc:source>
-		<meta property="se:word-count">156277</meta>
+		<meta property="se:word-count">154992</meta>
 		<meta property="se:reading-ease.flesch">67.79</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ghost_Stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-f-benson_ghost-stories</meta>
